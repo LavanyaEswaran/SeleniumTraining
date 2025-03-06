@@ -5,3 +5,5 @@ Git vs GitHub
 Git new repository
 file upload
 Learning to change the file
+Learning about main branches
+Creating a new branch
